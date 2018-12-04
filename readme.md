@@ -12,7 +12,7 @@ API Backend zadatak
 | Kombinacija filtriranja: | .../api/jela/find?tag=3&kategorija&sastojci
 | Pretraga po Jelu |.../api/jela/find?&kategorija&sastojci&tags  |
 | Filtriraj ako je prevedeno (Hrvatski=hr , Engleski = en...) |.../api/jela/find?tag=1&kategorija&sastojci&lang=en |
-| Paginaciju moguče koristiti na kolekciji | .../api/jela?per_page=15]
+| Paganaciju moguče koristiti na kolekciji | .../api/jela?per_page=15]
 |  |  |
 
 Command:
