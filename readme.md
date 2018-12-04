@@ -8,11 +8,11 @@ API Backend zadatak
 | RESPONSE | API |
 | ------ | ------ |
 
-| Prikaz svih podataka iz baze | .../api/jela]
+| Prikaz svih podataka iz baze | .../api/jela ]
 
-| Prikaži po tagu i tako baziraj upite | .../api/jela/find?tag=5
+| Prikaži po tagu i tako baziraj upite | .../api/jela/find?tag=5 |
 
-| Kombinacija filtriranja: | .../api/jela/find?tag=3&kategorija&sastojci
+| Kombinacija filtriranja: | .../api/jela/find?tag=3&kategorija&sastojci |
 
 | Pretraga po Jelu |.../api/jela/find?&kategorija&sastojci&tags  |
 
