@@ -11,9 +11,13 @@ API Backend zadatak
 | Prikaz svih podataka iz baze | .../api/jela]
 
 | Prikaži po tagu i tako baziraj upite | .../api/jela/find?tag=5
+
 | Kombinacija filtriranja: | .../api/jela/find?tag=3&kategorija&sastojci
+
 | Pretraga po Jelu |.../api/jela/find?&kategorija&sastojci&tags  |
+
 | Filtriraj ako je prevedeno (Hrvatski=hr , Engleski = en...) |.../api/jela/find?tag=1&kategorija&sastojci&lang=en |
+
 
 Command:
 
